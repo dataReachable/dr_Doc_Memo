@@ -1,0 +1,21 @@
+{
+  "name": "dr_doc_memo",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "serve": "docsify serve ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dataReachable/dr_Doc_Memo.git"
+  },
+  "author": "changyu.liao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dataReachable/dr_Doc_Memo/issues"
+  },
+  "homepage": "https://github.com/dataReachable/dr_Doc_Memo#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}
